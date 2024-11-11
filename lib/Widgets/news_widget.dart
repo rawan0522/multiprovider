@@ -22,7 +22,7 @@ class NewsWidget extends StatelessWidget {
               title,
               style: TextStyle(fontSize: 20, color: Colors.black, fontWeight: FontWeight.bold),
             ),
-          ),
+          ),///
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Text(
